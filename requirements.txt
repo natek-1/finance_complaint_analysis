@@ -11,4 +11,6 @@ seaborn
 numpy
 plotly
 matplotlib
+nltk
+scikit-learn
 -e .
