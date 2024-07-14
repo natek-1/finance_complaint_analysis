@@ -13,4 +13,9 @@ plotly
 matplotlib
 nltk
 scikit-learn
+catboost
+xgboost
+category_encoders
+imbalanced-learn
+hyperopt
 -e .
