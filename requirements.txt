@@ -18,4 +18,5 @@ xgboost
 category_encoders
 imbalanced-learn
 hyperopt
+python-dotenv
 -e .
